@@ -1,5 +1,5 @@
 {
-  "name": "@coolaid/eslint-config",
+  "name": "eslint-config-coolaid",
   "version": "1.0.0",
   "description": "ESLint configuration",
   "publishConfig": {
